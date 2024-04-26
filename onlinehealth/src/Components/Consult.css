@@ -1,0 +1,13 @@
+.consultation-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .doctor-image {
+    flex: 1;
+  }
+  
+  .doctor-info {
+    flex: 2;
+    padding: 20px; /* Add spacing as needed */
+  }

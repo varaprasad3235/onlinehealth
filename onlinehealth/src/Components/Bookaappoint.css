@@ -1,0 +1,54 @@
+.book-appointment-container {
+    text-align: center;
+    margin: 30px auto;
+    width: 80%;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+  }
+  
+  label {
+    display: block;
+    text-align: left;
+  }
+  
+  button {
+    background-color: #0077b6;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .appointment-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #0077b6;
+    color: #fff;
+  }
+  
+  /* Add more CSS styles as needed */
+  

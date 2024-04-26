@@ -1,0 +1,29 @@
+.container {
+    background-color: rgba(255, 255, 255, 0.985);
+    padding-top: 10px;
+    padding-right: 10px;
+  }
+  .custom-paragraph {
+    font-size: 40px; /* Adjust the font size as needed */
+    font-family: 'Arial', sans-serif; /* Change the font family as needed */
+    color: #333; /* Set the font color as needed */
+    /* Add other styles like line-height, text-align, etc. */
+  }
+  .consult-button {
+    background-color: black; /* Background color of the button */
+    color: #ffffff; /* Text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-size: 18px; /* Adjust font size as needed */
+    cursor: pointer; /* Show a hand cursor on hover */
+    border-radius: 5px; /* Add rounded corners */
+  }
+  
+  .consult-button:hover {
+    background-color:#42ffd0;; /* Background color on hover */
+    color: #000000;
+  }
+.bathai{
+  font-size: 36px;
+  background-color:rgb(251, 255, 240);;
+}
